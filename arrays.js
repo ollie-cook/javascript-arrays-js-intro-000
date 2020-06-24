@@ -36,6 +36,6 @@ array.pop();
 return array
 }
 
-var removeElementFromEndOfArray = (array) => { 
+var removeElementFromEndOfArray = (array) => {
 return array1 = array.pop();
 }
