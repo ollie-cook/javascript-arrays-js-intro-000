@@ -35,3 +35,7 @@ var destructivelyRemoveElementFromEndOfArray = (array) =>{
 array.pop();
 return array
 }
+
+var removeElementFromEndOfArray = (array) => { 
+return array1 = array.pop();
+}
