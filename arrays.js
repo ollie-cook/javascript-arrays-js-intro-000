@@ -37,5 +37,5 @@ return array
 }
 
 var removeElementFromEndOfArray = (array) => {
-return
+return array.slice(-1)
 }
