@@ -9,7 +9,7 @@ array.unshift(element);
 return array
 }
 
-var addElementToBeginningOfArray = (array, element) => {
+var addElementToEndOfArray = (array, element) => {
 return array1 = [...array, element]
 }
 
