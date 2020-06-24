@@ -37,5 +37,6 @@ return array
 }
 
 var removeElementFromEndOfArray = (array) => {
-return array1 = array.pop();
+array1 = array.pop();
+return array1
 }
