@@ -29,4 +29,9 @@ return array;
 
 var removeElementFromBeginningOfArray = (array) =>{
 return array1 = array.slice(1);
+} 
+
+var destructivelyRemoveElementFromEndOfArray = (array) =>{
+array.pop();
+return array
 }
