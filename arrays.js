@@ -9,9 +9,9 @@ array.unshift(element);
 return array
 }
 
-var addElementToBeginningOfArray = (array, element) => { 
+var addElementToBeginningOfArray = (array, element) => {
 return array1 = [...array, element]
-} 
+}
 
 var destructivelyAddElementToEndOfArray = (array,element) => {
 array.push(element);
